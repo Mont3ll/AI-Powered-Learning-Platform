@@ -1,0 +1,6 @@
+[submodule "soma-ai"]
+	path = soma-ai
+	url = ./soma-ai
+[submodule "backend"]
+	path = backend
+	url = ./backend
