@@ -64,8 +64,8 @@ The application follows a microservices architecture with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mont3ll/soma-ai.git
-cd soma-ai
+git clone https://github.com/mont3ll/AI-Powered-Learning-Platform.git
+cd AI-Powered-Learning-Platform
 ```
 
 2. Start the development environment:
