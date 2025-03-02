@@ -1,6 +1,6 @@
 [submodule "soma-ai"]
 	path = soma-ai
-	url = ./soma-ai
+	url = https://github.com/Mont3ll/soma-ai.git
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/Mont3ll/soma-ai-backend.git
